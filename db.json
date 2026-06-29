@@ -8,6 +8,7 @@
     "details": " ",
     "repo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
     "url": "https://drentey.github.io/CCf-CertProj-01-Survey/",
+    "deployed": true,
     "date": "June 28, 2025"
   },
   {
@@ -18,6 +19,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
     "url": "https://drentey.github.io/CCf-CertProj-02-TributeP/",
+    "deployed": true,
     "date": "June 29, 2025"
   
   },
@@ -29,6 +31,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true, 
     "date": "June 30, 2025"
   },
  {
@@ -39,6 +42,7 @@
     "details": " ",
     "repo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true,
     "date": "June 30, 2025"
   },
 {
@@ -49,6 +53,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true,
     "date": "June 30, 2025"
   },
   {
@@ -59,6 +64,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true,
     "date": "June 30, 2025"
   },
  {
@@ -69,6 +75,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true,
     "date": "June 30, 2025"
   },
  {
@@ -79,6 +86,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true,   
     "date": "June 30, 2025"
   },
 {
@@ -89,6 +97,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": false,
     "date": "June 30, 2025"
   },
 {
@@ -99,6 +108,7 @@
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": false,
     "date": "June 30, 2025"
   },
 {
@@ -108,6 +118,7 @@
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "deployed": false,
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
     "date": "June 30, 2025"
   }
