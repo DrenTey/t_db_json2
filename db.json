@@ -3,6 +3,7 @@
   {
     "id": 1001,
     "category": "RWD",
+    "upID": 10,
     "title": "Survery[fCC]",
     "description": "Deploying a static survey form using RWD standards.",
     "details": " ",
@@ -14,6 +15,7 @@
   {
     "id": 1002,
     "category": "RWD",
+    "upID": 10,
     "title": "Tribute[fCC]",
     "description": "Deploying a tribute page using RWD standards.",
     "details":"",
@@ -26,6 +28,7 @@
   {
     "id": 1003,
     "category": "RWD",
+    "upID": 10, 
     "title": "Documentation[fCC]",
     "description": "Deploying a documentation page using RWD standards.",
     "details":"",
@@ -37,6 +40,7 @@
  {
     "id": 1004,
     "category": "JS",
+    "upID": 50,
     "title": "Katalog_TH",
     "description": "A small functional page to help with bibliographic research in polish theological journals.",
     "details": " ",
@@ -48,6 +52,7 @@
 {
    "id": 1101,
     "category": "VUE3-Options",
+    "upID": 11,
     "title": "Survery[Upcycled]",
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
@@ -59,6 +64,7 @@
   {
    "id": 1102,
     "category": "VUE3-Options",
+    "upID": 11, 
     "title": "Tribute[Upcycled]",
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
@@ -70,6 +76,7 @@
  {
    "id": 1103,
     "category": "VUE3-Options",
+    "upID": 11,  
     "title": "Documentation[Upcycled]",
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
@@ -81,6 +88,7 @@
  {
    "id": 1104,
     "category": "VUE3-Options",
+    "upID": 11,  
     "title": "Katalog[Upcycled]",
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
@@ -92,7 +100,8 @@
 {
    "id": 3001,
     "category": "DA: KNIME",
-    "title": "Working with KNIME",
+    "upID": 30, 
+   "title": "Working with KNIME",
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
@@ -103,7 +112,8 @@
 {
    "id": 3002,
     "category": "DA: Office Scripts",
-    "title": "Working with OfficeScripts",
+   "upID": 30, 
+   "title": "Working with OfficeScripts",
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
@@ -114,6 +124,7 @@
 {
    "id": 3003,
     "category": "DA: Python",
+    "upID": 30, 
     "title": "Working with OfficeScripts",
     "description": "Upcycled, using VUE3 Options API.",
     "details":"",
