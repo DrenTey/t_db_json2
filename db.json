@@ -141,27 +141,27 @@
    "prId": [
     {
      "id":1001,
-     "deployed": True,
+     "deployed": true,
      "related": [1101, 1201]  
     },
     {
      "id":1002,
-     "deployed": True,
+     "deployed": true,
      "related": [1102, 1202]  
     },
     {
      "id":1003,
-     "deployed": True,
+     "deployed": true,
      "related": [1103, 1203]  
     },
     {
      "id":1004,
-     "deployed": True,
+     "deployed": true,
      "related": [1104, 1204]  
     },
     {
      "id":1005,
-     "deployed": True,
+     "deployed": true,
      "related": [1105, 1205]  
     }
    ]
@@ -172,27 +172,27 @@
    "prId": [
     {
      "id":1101,
-     "deployed": False,
+     "deployed": false,
      "related": [1001, 1201]  
     },
     {
      "id":1102,
-     "deployed": True,
+     "deployed": true,
      "related": [1002, 1202]  
     },
     {
      "id":1103,
-     "deployed": False,
+     "deployed": false,
      "related": [1003, 1203]  
     },
     {
      "id":1104,
-     "deployed": False,
+     "deployed": false,
      "related": [1004, 1204]  
     },
     {
      "id":1105,
-     "deployed": False,
+     "deployed": false,
      "related": [1005, 1205]  
     }
    ]
@@ -204,27 +204,27 @@
    "prId": [
     {
      "id":1201,
-     "deployed": False,
+     "deployed": false,
      "related": [1001, 1101]  
     },
     {
      "id":1202,
-     "deployed": False,
+     "deployed": false,
      "related": [1002, 1102]  
     },
     {
      "id":1203,
-     "deployed": False,
+     "deployed": false,
      "related": [1003, 1103]  
     },
     {
      "id":1204,
-     "deployed": False,
+     "deployed": false,
      "related": [1004, 1104]  
     },
     {
      "id":1205,
-     "deployed": False,
+     "deployed": false,
      "related": [1005, 1105]  
     }
    ]
