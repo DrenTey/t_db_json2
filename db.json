@@ -118,11 +118,11 @@
     "name": "RWD"
   },
   {
-    "id": 100,
+    "id": 11,
     "name": "Vue 3 Options API"
   },
   {
-    "id": 200,
+    "id": 12,
     "name": "Vue 3 Composition API"
   },
   {
@@ -133,4 +133,105 @@
     "id": 700,
     "name": "Other Projects"
   }
-]}
+],
+ "Upcycling": [
+  {
+   "id": 10,
+   "name": "RWD",
+   "prId": [
+    {
+     "id":1001,
+     "deployed": True,
+     "related": [1101, 1201]  
+    },
+    {
+     "id":1002,
+     "deployed": True,
+     "related": [1102, 1202]  
+    },
+    {
+     "id":1003,
+     "deployed": True,
+     "related": [1103, 1203]  
+    },
+    {
+     "id":1004,
+     "deployed": True,
+     "related": [1104, 1204]  
+    },
+    {
+     "id":1005,
+     "deployed": True,
+     "related": [1105, 1205]  
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Vue3 Opinions API",
+   "prId": [
+    {
+     "id":1101,
+     "deployed": False,
+     "related": [1001, 1201]  
+    },
+    {
+     "id":1102,
+     "deployed": True,
+     "related": [1002, 1202]  
+    },
+    {
+     "id":1103,
+     "deployed": False,
+     "related": [1003, 1203]  
+    },
+    {
+     "id":1104,
+     "deployed": False,
+     "related": [1004, 1204]  
+    },
+    {
+     "id":1105,
+     "deployed": False,
+     "related": [1005, 1205]  
+    }
+   ]
+  },
+  
+  {
+   "id": 12,
+   "name": "Vue3 Compositions API",
+   "prId": [
+    {
+     "id":1201,
+     "deployed": False,
+     "related": [1001, 1101]  
+    },
+    {
+     "id":1202,
+     "deployed": False,
+     "related": [1002, 1102]  
+    },
+    {
+     "id":1203,
+     "deployed": False,
+     "related": [1003, 1103]  
+    },
+    {
+     "id":1204,
+     "deployed": False,
+     "related": [1004, 1104]  
+    },
+    {
+     "id":1205,
+     "deployed": False,
+     "related": [1005, 1105]  
+    }
+   ]
+  },
+  
+  
+ ]
+ {
+  
+ }}
