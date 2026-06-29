@@ -1,4 +1,5 @@
- {[
+ {
+  "projects":[
   {
     id: 1001,
     category: 'RWD',
