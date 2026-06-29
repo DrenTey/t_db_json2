@@ -1,14 +1,14 @@
  {
   "projects":[
   {
-    id: 1001,
-    category: 'RWD',
-    title: 'Survery[fCC]',
-    description: 'Deploying a static survey form using RWD standards.',
-    details:'',
-    repo: 'https://github.com/DrenTey/CCf-CertProj-01-Survey',
-    url: 'https://drentey.github.io/CCf-CertProj-01-Survey/',
-    date: 'June 28, 2025',
+    "id": 1001,
+    "category": 'RWD',
+    "title": 'Survery[fCC]',
+    "description": 'Deploying a static survey form using RWD standards.',
+    "details": ' ',
+    "repo": 'https://github.com/DrenTey/CCf-CertProj-01-Survey',
+    "url": 'https://drentey.github.io/CCf-CertProj-01-Survey/',
+    "date": 'June 28, 2025',
 
   },
   {
@@ -37,7 +37,7 @@
     category: 'JS',
     title: 'Katalog_TH',
     description: 'A small functional page to help with bibliographic research in polish theological journals.',
-    details:'',
+    details: ' ',
     repo: 'https://github.com/DrenTey/Katalog_Czasopism_Th',
     url: 'https://drentey.github.io/CCf-CertProj-03-DocumentationP/',
     date: 'June 30, 2025',
