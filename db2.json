@@ -1,0 +1,137 @@
+ {
+  "projects":[
+  {
+    "id": 1001,
+    "category": "RWD",
+    "upID": 10,
+    "title": "Survery[fCC]",
+    "description": "Deploying a static survey form using RWD standards.",
+    "details": " ",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
+    "url": "https://drentey.github.io/CCf-CertProj-01-Survey/",
+    "deployed": true,
+    "date": "June 28, 2025"
+  },
+  {
+    "id": 1002,
+    "category": "RWD",
+    "upID": 10,
+    "title": "Tribute[fCC]",
+    "description": "Deploying a tribute page using RWD standards.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
+    "url": "https://drentey.github.io/CCf-CertProj-02-TributeP/",
+    "deployed": true,
+    "date": "June 29, 2025"
+  
+  },
+  {
+    "id": 1003,
+    "category": "RWD",
+    "upID": 10, 
+    "title": "Documentation[fCC]",
+    "description": "Deploying a documentation page using RWD standards.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true, 
+    "date": "June 30, 2025"
+  },
+ {
+    "id": 1004,
+    "category": "JS",
+    "upID": 50,
+    "title": "Katalog_TH",
+    "description": "A small functional page to help with bibliographic research in polish theological journals.",
+    "details": " ",
+    "repo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true,
+    "date": "June 30, 2025"
+  },
+{
+   "id": 1101,
+    "category": "VUE3-Options",
+    "upID": 11,
+    "title": "Survery[Upcycled]",
+    "description": "Upcycled, using VUE3 Options API.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": false,
+    "date": "June 30, 2025"
+  },
+  {
+   "id": 1102,
+    "category": "VUE3-Options",
+    "upID": 11, 
+    "title": "Tribute[Upcycled]",
+    "description": "Upcycled, using VUE3 Options API.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": true,
+    "date": "June 30, 2025"
+  },
+ {
+   "id": 1103,
+    "category": "VUE3-Options",
+    "upID": 11,  
+    "title": "Documentation[Upcycled]",
+    "description": "Upcycled, using VUE3 Options API.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": false,
+    "date": "June 30, 2025"
+  },
+ {
+   "id": 1104,
+    "category": "VUE3-Options",
+    "upID": 11,  
+    "title": "Katalog[Upcycled]",
+    "description": "Upcycled, using VUE3 Options API.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": false,   
+    "date": "June 30, 2025"
+  },
+{
+   "id": 3001,
+    "category": "DA: KNIME",
+    "upID": 30, 
+   "title": "Working with KNIME",
+    "description": "Upcycled, using VUE3 Options API.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": false,
+    "date": "June 30, 2025"
+  },
+{
+   "id": 3002,
+    "category": "DA: Office Scripts",
+   "upID": 30, 
+   "title": "Working with OfficeScripts",
+    "description": "Upcycled, using VUE3 Options API.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "deployed": false,
+    "date": "June 30, 2025"
+  },
+{
+   "id": 3003,
+    "category": "DA: Python",
+    "upID": 30, 
+    "title": "Working with OfficeScripts",
+    "description": "Upcycled, using VUE3 Options API.",
+    "details":"",
+    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+    "deployed": false,
+    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "date": "June 30, 2025"
+  }
+]
+ }
