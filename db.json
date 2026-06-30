@@ -14,10 +14,12 @@
     "phase": [
      {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
       "urlRepo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
-      "urlDepl": "https://drentey.github.io/CCf-CertProj-01-Survey" },
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-01-Survey",
+      "keypoints": "First project"},
      {"numb": "2", "framework": "Vue3 OP", "deployed": false, 
       "urlRepo": "",
-      "urlDepl": ""},
+      "urlDepl": ""
+     "Upcycled, using VUE3 Options API."},
      {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
       "urlRepo": "",
       "urlDepl": ""},
@@ -36,14 +38,17 @@
     "date": "June 29, 2025",
     "phase": [
      {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
-      "urlRepo": "https://drentey.github.io/CCf-CertProj-02-TributeP",
-      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP" },
+      "urlRepo": "https://github.com/DrenTey/CCf-CertProj-02-TributeP",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "keypoints": "First project"},
      {"numb": "2", "framework": "Vue3 OP", "deployed": true, 
       "urlRepo": "",
-      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP"},
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "keypoints": "First project"}
      {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
       "urlRepo": "",
-      "urlDepl": ""},
+      "urlDepl": "",
+      "keypoints": "First project"}
     ]
   
   },
@@ -57,7 +62,22 @@
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
     "deployed": true, 
-    "date": "June 30, 2025"
+    "date": "June 30, 2025",
+    "phase": [
+     {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
+      "urlRepo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
+       "urlDepl": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+      "keypoints": "First project"},
+     {"numb": "2", "framework": "Vue3 OP", "deployed": true, 
+      "urlRepo": "",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "keypoints": "First project"}
+     {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": "",
+      "keypoints": "First project"}
+    ]
+   
   },
  {
     "id": 1004,
@@ -67,59 +87,25 @@
     "description": "A small functional page to help with bibliographic research in polish theological journals.",
     "details": " ",
     "repo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
-    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
+    "url": "https://drentey.github.io/Katalog_Czasopism_Th",
     "deployed": true,
-    "date": "June 30, 2025"
+    "date": "June 30, 2025",
+    "phase": [
+     {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
+      "urlRepo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
+    "urlDepl": "https://drentey.github.io/Katalog_Czasopism_Th",
+      "keypoints": "First project"},
+     {"numb": "2", "framework": "Vue3 OP", "deployed": true, 
+      "urlRepo": "",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "keypoints": "First project"}
+     {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": "",
+      "keypoints": "First project"}
+    ]
   },
-{
-   "id": 1101,
-    "category": "VUE3-Options",
-    "upID": 11,
-    "title": "Survery[Upcycled]",
-    "description": "Upcycled, using VUE3 Options API.",
-    "details":"",
-    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
-    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
-    "deployed": false,
-    "date": "June 30, 2025"
-  },
-  {
-   "id": 1102,
-    "category": "VUE3-Options",
-    "upID": 11, 
-    "title": "Tribute[Upcycled]",
-    "description": "Upcycled, using VUE3 Options API.",
-    "details":"",
-    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
-    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
-    "deployed": true,
-    "date": "June 30, 2025"
-  },
- {
-   "id": 1103,
-    "category": "VUE3-Options",
-    "upID": 11,  
-    "title": "Documentation[Upcycled]",
-    "description": "Upcycled, using VUE3 Options API.",
-    "details":"",
-    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
-    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
-    "deployed": false,
-    "date": "June 30, 2025"
-  },
- {
-   "id": 1104,
-    "category": "VUE3-Options",
-    "upID": 11,  
-    "title": "Katalog[Upcycled]",
-    "description": "Upcycled, using VUE3 Options API.",
-    "details":"",
-    "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
-    "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
-    "deployed": false,   
-    "date": "June 30, 2025"
-  },
-{
+   {
    "id": 3001,
     "category": "DA: KNIME",
     "upID": 30, 
@@ -129,7 +115,20 @@
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
     "deployed": false,
-    "date": "June 30, 2025"
+    "date": "June 30, 2025",
+     "phase": [
+     {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
+      "urlRepo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
+    "urlDepl": "https://drentey.github.io/Katalog_Czasopism_Th",
+      "keypoints": "First project"},
+     {"numb": "2", "framework": "Vue3 OP", "deployed": true, 
+      "urlRepo": "",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "keypoints": "First project"}
+     {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": "",
+      "keypoints": "First project"}
   },
 {
    "id": 3002,
@@ -141,7 +140,20 @@
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
     "deployed": false,
-    "date": "June 30, 2025"
+    "date": "June 30, 2025",
+  "phase": [
+     {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
+      "urlRepo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
+    "urlDepl": "https://drentey.github.io/Katalog_Czasopism_Th",
+      "keypoints": "First project"},
+     {"numb": "2", "framework": "Vue3 OP", "deployed": true, 
+      "urlRepo": "",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "keypoints": "First project"}
+     {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": "",
+      "keypoints": "First project"}
   },
 {
    "id": 3003,
@@ -153,7 +165,20 @@
     "repo": "https://github.com/DrenTey/CCf-CertProj-03-DocumentationP",
     "deployed": false,
     "url": "https://drentey.github.io/CCf-CertProj-03-DocumentationP/",
-    "date": "June 30, 2025"
+    "date": "June 30, 2025",
+  "phase": [
+     {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
+      "urlRepo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
+    "urlDepl": "https://drentey.github.io/Katalog_Czasopism_Th",
+      "keypoints": "First project"},
+     {"numb": "2", "framework": "Vue3 OP", "deployed": true, 
+      "urlRepo": "",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "keypoints": "First project"}
+     {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": "",
+      "keypoints": "First project"}
   }
 ]
  }
