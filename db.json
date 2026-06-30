@@ -18,11 +18,12 @@
       "keypoints": "First project"},
      {"numb": "2", "framework": "Vue3 OP", "deployed": false, 
       "urlRepo": "",
-      "urlDepl": ""
-     "Upcycled, using VUE3 Options API."},
+      "urlDepl": "Upcycled, using VUE3 Options API.",
+     "keypoints": "First project"}
      {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
       "urlRepo": "",
-      "urlDepl": ""},
+      "urlDepl": "",
+      "keypoints": "First project"}
     ]
   },
   {
