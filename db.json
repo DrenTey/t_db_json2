@@ -10,7 +10,18 @@
     "repo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
     "url": "https://drentey.github.io/CCf-CertProj-01-Survey/",
     "deployed": true,
-    "date": "June 28, 2025"
+    "date": "June 28, 2025",
+    "phase": [
+     {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
+      "urlRepo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-01-Survey" },
+     {"numb": "2", "framework": "Vue3 OP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": ""},
+     {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": ""},
+    ]
   },
   {
     "id": 1002,
@@ -22,7 +33,18 @@
     "repo": "https://github.com/DrenTey/CCf-CertProj-01-Survey",
     "url": "https://drentey.github.io/CCf-CertProj-02-TributeP/",
     "deployed": true,
-    "date": "June 29, 2025"
+    "date": "June 29, 2025",
+    "phase": [
+     {"numb": "1", "framework": "HTML5/CSS3", "deployed": true, 
+      "urlRepo": "https://drentey.github.io/CCf-CertProj-02-TributeP",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP" },
+     {"numb": "2", "framework": "Vue3 OP", "deployed": true, 
+      "urlRepo": "",
+      "urlDepl": "https://drentey.github.io/CCf-CertProj-02-TributeP"},
+     {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
+      "urlRepo": "",
+      "urlDepl": ""},
+    ]
   
   },
   {
