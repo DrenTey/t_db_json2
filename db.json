@@ -124,7 +124,7 @@
      {"numb": "3", "framework": "Vue3 COMP", "deployed": false, 
       "urlRepo": "",
       "urlDepl": "",
-      "keypoints": "First project"}
+      "keypoints": "Phase#3: using VUE3 Composition API"}
     ]
   },
   {
@@ -132,7 +132,7 @@
     "category": "DA: Office & Scripts",
    "upID": 30, 
    "title": "DA & Office & Scripts",
-    "description": "Describing of frameworks used for DA in Office suite.",
+    "description": "Describing frameworks used for Data Analysis from MS Office suite.",
     "details":"",
     "repo": "",
     "url": "",
@@ -142,22 +142,22 @@
      {"numb": "1", "framework": "Excel", "deployed": true, 
       "urlRepo": "",
     "urlDepl": "",
-      "keypoints": "First project"},
+      "keypoints": "Base skills for collaborating with others in MS Suite"},
      {"numb": "2", "framework": "Power Query & Power Pivot", "deployed": false, 
       "urlRepo": "",
       "urlDepl": "",
-      "keypoints": "First project"},
+      "keypoints": "ETL in Excel and Transforming"},
      {"numb": "3", "framework": "VBA & Office Scripts", "deployed": false, 
       "urlRepo": "",
       "urlDepl": "",
-      "keypoints": "First project"}]
+      "keypoints": "Automating task: locally and on SharePoint"}]
   },
    {
    "id": 3002,
     "category": "DA: KNIME",
     "upID": 30, 
    "title": "DA & KNIME",
-    "description": "Describing usage of Knime for DA ",
+    "description": "Describing usage of Knime for Data Analysis ",
     "details":"",
     "repo": "",
     "url": "",
@@ -183,7 +183,7 @@
     "category": "DA: Python",
     "upID": 30, 
     "title": "DA & Python ",
-    "description": "",
+    "description": "Describing usage of Python for Data Analysis",
     "details":"",
     "repo": "",
     "deployed": false,
@@ -193,15 +193,15 @@
      {"numb": "1", "framework": "Numpy + Panda", "deployed": false, 
       "urlRepo": "https://github.com/DrenTey/Katalog_Czasopism_Th",
     "urlDepl": "",
-      "keypoints": "First project"},
+      "keypoints": "Standard libraries for manipulation of data. Pandas library has a great advantage, it provides a dataframe object which allows to import information in the form of table. Great for reading excel files and some tables from accesible websites."},
      {"numb": "2", "framework": "Folium + Seaborn", "deployed": false, 
       "urlRepo": "",
       "urlDepl": "",
-      "keypoints": "First project"},
+      "keypoints": "Libraries helping with visualation of the data. Seaborn is great for charts similar to used in BI, Folium allows to create interactive web maps"},
      {"numb": "3", "framework": "Beautiful Soup", "deployed": false, 
       "urlRepo": "",
       "urlDepl": "",
-      "keypoints": "First project"}]
+      "keypoints": "A tool for navigating over the html files, whether local or deployed online. When legally permitted, it allows for Web Scraping"}]
   }
 ]
  }
